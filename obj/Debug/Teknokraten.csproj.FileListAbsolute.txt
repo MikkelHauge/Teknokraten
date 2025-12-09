@@ -1,0 +1,12 @@
+P:\projects\Teknokraten\obj\Debug\Teknokraten.csproj.AssemblyReference.cache
+P:\projects\Teknokraten\obj\Debug\Teknokraten.Form1.resources
+P:\projects\Teknokraten\obj\Debug\Teknokraten.Properties.Resources.resources
+P:\projects\Teknokraten\obj\Debug\Teknokraten.csproj.GenerateResource.cache
+P:\projects\Teknokraten\obj\Debug\Teknokraten.csproj.CoreCompileInputs.cache
+P:\projects\Teknokraten\bin\Debug\Teknokraten.exe.config
+P:\projects\Teknokraten\bin\Debug\Teknokraten.exe
+P:\projects\Teknokraten\bin\Debug\Teknokraten.pdb
+P:\projects\Teknokraten\obj\Debug\Teknokraten.exe
+P:\projects\Teknokraten\obj\Debug\Teknokraten.pdb
+P:\projects\Teknokraten\bin\Debug\Resources\teknokraten.ico
+P:\projects\Teknokraten\bin\Debug\yt-dlp\yt-dlp.exe
